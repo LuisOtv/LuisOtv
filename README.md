@@ -19,6 +19,6 @@
   <p>🌐 <strong>Compass UOL</strong>: Intern at Compass UOL, working as a Developer.</p>
   <p>🦴 <strong>Darling Ingredients</strong>: Part-time job at Darling Ingredients, working as an office assistant.</p>
   <p>🎨 <strong>Design Freelancer</strong>: Made Flyers, ADs, Posters, etc. As a freelancer.</p>
-  <p>🪛 <strong>Technician Freelance</strong>: Assembled and made small repairs at computers.</p>
+  <p>🪛 <strong>Technician Freelancer</strong>: Assembled and made small repairs at computers.</p>
   <p>🧑‍🏫 <strong>IT Teacher</strong>: Working as a teacher at UNIFESSPA, teaching a computer maintenance and assembly course.</p>
 </main>
