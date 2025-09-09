@@ -1,0 +1,52 @@
+# Hi there 👋
+
+👋 Hi, I'm Luís, currently studying Information Systems at UNIFESSPA.  
+🌱 I’m currently focused on Web Development.  
+💼 Co-Founder of **Steed**.  
+📫 How to reach me: [luispim2005@gmail.com](mailto:luispim2005@gmail.com)
+
+---
+
+## Skills 💻
+
+- 🗣️ **Natural Languages**: Portuguese (Native), English (Advanced / Near-native)
+- 👨‍💻 **Programming Languages**: Python, C#, Java, SwiftUI, JavaScript, GDScript
+- 📱 **Markup & Styling**: HTML, CSS
+- ⚒️ **Frameworks**: Java Spring Boot, Tail Wind
+
+---
+
+## Professional Experience 👨‍💻
+
+- 👥 [**Steed**](https://github.com/SteedHub) _(Jan 2025 – Present)_: Startup specializing in website development, where I work as Co-Founder and Full Stack Developer.
+- 🦎 **Exception Jr**: Junior Enterprise at UNIFESSPA, where I worked as a Full Stack Developer.
+- 🌐 **Compass UOL**: Internship as a Developer.
+- 🦴 **Darling Ingredients**: Part-time job as an Office Assistant.
+- 🎨 **Design Freelancer**: Created flyers, ads, posters, and other visual materials.
+- 🪛 **Technician Freelancer**: Computer assembly and small hardware/software repairs.
+- 🧑‍🏫 **IT Teacher**: Part-time teacher at UNIFESSPA, teaching a Computer Maintenance and Assembly course.
+
+---
+
+## Hobbies 👾
+
+- 🕹️ **Game Developer**: I love creating games in my free time and hope to turn this passion into a career one day ^^.  
+  You can check out some of my projects on [**Itch.io**](https://caytie.itch.io/).
+- 🪫 **Gaming**: I love games, love the MGS Series, and currently I'm addicted to Deadlock
+- 🎥 **YouTube**: I love watching youtube, I have a small channel that I post on my free time, wont be sharing !!!!!!!!!
+- 🍳 **Cooking**: I'm learning how to cook properly, tired of eating insta-ramen >.>
+
+---
+
+## Stamps
+
+<div align="center">
+
+![yay](./Stamps/yay.gif)
+![hf](./Stamps/hf.png)
+![lover](./Stamps/lover.gif)
+![falling](./Stamps/falling.gif)
+![forget](./Stamps/forget.gif)
+![gir](./Stamps/gir.gif)
+
+</div>
