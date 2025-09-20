@@ -1,8 +1,7 @@
 # Hi there 👋
 
 👋 Hi, I'm Luís, currently studying Information Systems at UNIFESSPA.  
-🌱 I’m currently focused on Web Development.  
-💼 Co-Founder of **Steed**.  
+🌱 I’m currently focused on Web Development.
 📫 How to reach me: [luispim2005@gmail.com](mailto:luispim2005@gmail.com)
 
 ---
@@ -18,7 +17,6 @@
 
 ## Professional Experience 👨‍💻
 
-- 👥 [**Steed**](https://github.com/SteedHub) _(Jan 2025 – Present)_: Startup specializing in website development, where I work as Co-Founder and Full Stack Developer.
 - 🦎 **Exception Jr**: Junior Enterprise at UNIFESSPA, where I worked as a Full Stack Developer.
 - 🌐 **Compass UOL**: Internship as a Developer.
 - 🦴 **Darling Ingredients**: Part-time job as an Office Assistant.
