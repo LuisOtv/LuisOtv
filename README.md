@@ -11,18 +11,18 @@
 - 🗣️ **Natural Languages**: Portuguese (Native), English (Advanced / Near-native)
 - 👨‍💻 **Programming Languages**: Python, C#, Java, SwiftUI, JavaScript, GDScript
 - 📱 **Markup & Styling**: HTML, CSS
-- ⚒️ **Frameworks**: Java Spring Boot, Tail Wind
+- ⚒️ **Frameworks**: Java Spring Boot, Tail Wind, 
 
 ---
 
 ## Professional Experience 👨‍💻
 
-- 🦎 **Exception Jr**: Junior Enterprise at UNIFESSPA, where I worked as a Full Stack Developer.
-- 🌐 **Compass UOL**: Internship as a Developer.
-- 🦴 **Darling Ingredients**: Part-time job as an Office Assistant.
-- 🎨 **Design Freelancer**: Created flyers, ads, posters, and other visual materials.
-- 🪛 **Technician Freelancer**: Computer assembly and small hardware/software repairs.
-- 🧑‍🏫 **IT Teacher**: Part-time teacher at UNIFESSPA, teaching a Computer Maintenance and Assembly course.
+- 🦎 **Exception Jr**: Junior Enterprise at UNIFESSPA, where I worked as a Full Stack Developer. (jul 2023 - now)
+- 🌐 **Compass UOL**: Internship as a Developer. (may 2024 - oct 2024)
+- 🦴 **Darling Ingredients**: Part-time job as an Office Assistant. (may 2023 - may 2024)
+- 🎨 **Design Freelancer**: Created flyers, ads, posters, and other visual materials. (now)
+- 🪛 **Technician Freelancer**: Computer assembly and small hardware/software repairs. (now)
+- 🧑‍🏫 **IT Teacher**: Part-time teacher at UNIFESSPA, teaching a Computer Maintenance and Assembly course.  (nov 2024 - aug 2025)
 
 ---
 
