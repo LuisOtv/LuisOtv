@@ -1,6 +1,6 @@
 # Hi there 👋
 
-my dream job is working with game development but if it doesn't work out I will see what I do with my life
+my dream job is working with game development
 
 ## Stamps
 
