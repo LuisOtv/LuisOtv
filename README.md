@@ -1,8 +1,4 @@
-# Hi there 👋
-
 my dream job is working with game development
-
-## Stamps
 
 <div align="center">
 
