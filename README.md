@@ -43,16 +43,3 @@ I'm currently focusing on:
 If you'd like to talk about working on a project together or just chat about dev stuff, feel free to reach out:
 
 **Discord:** `pomerana_`
-
----
-
-<div align="center">
-
-![yay](./Stamps/yay.gif)
-![hf](./Stamps/hf.png)
-![lover](./Stamps/lover.gif)
-![falling](./Stamps/falling.gif)
-![forget](./Stamps/forget.gif)
-![gir](./Stamps/gir.gif)
-
-</div>
