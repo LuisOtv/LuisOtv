@@ -7,7 +7,6 @@ I'm an aspiring **Godot game developer** passionate about creating **3D and expe
 I'm currently focusing on:
 - Developing immersive 3D experiences in Godot
 - Experimenting with innovative gameplay mechanics
-- Learning advanced shader techniques and procedural generation
 - Building tools and prototypes for creative game concepts
 
 ## 🛠️ Main Technologies
