@@ -41,4 +41,4 @@ I'm currently focusing on:
 
 If you'd like to talk about working on a project together or just chat about dev stuff, feel free to reach out:
 
-**Discord:** `pomerana_`
+**Discord:** `arduino32bits`
